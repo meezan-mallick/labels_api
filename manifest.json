@@ -1,0 +1,18 @@
+{
+    "name": "Gmail labels API",
+    "version": "1.0",
+    "description": "Smartly manange your labels in Gmail with ease.",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_title": "Gmail labels API",
+        "default_popup":"popup.html"
+    },
+    
+    "content_security_policy": "script-src 'self' https://apis.google.com/; object-src 'self'",
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": false
+    }
+}

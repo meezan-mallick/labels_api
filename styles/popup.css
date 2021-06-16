@@ -1,0 +1,40 @@
+#wrapper{
+    width: 450px;
+    height: 430px;
+    padding: 0px;
+    margin: 0px;
+}
+
+#head{
+    background-color: #3C79F8;
+    color: white;
+}
+
+
+#mainDiv{
+    font-size: 20px;
+}
+
+#get_email{
+    margin-top: -50px;
+}
+
+#content_wrapper{
+    text-align: center;
+}
+
+#footer{
+   
+    background-color: #14348E;
+    
+}
+#footer a{
+    color:white;
+    text-decoration: underline;
+    
+}
+
+
+#csv{
+    visibility: hidden;
+}

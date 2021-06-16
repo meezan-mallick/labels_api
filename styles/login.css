@@ -1,0 +1,28 @@
+
+#mainDiv{
+    font-size: 20px;
+
+}
+
+#wrapper{
+    width: 400px;
+    height: 600px;
+    padding: 0px;
+    margin: 0px;
+}
+#head{
+    background-color: #3C79F8;
+    color: white;
+}
+
+
+
+img{
+    height: 200px;
+}
+
+
+#footer{
+    margin-top: 44px;
+    background-color: #14348E;
+}
